@@ -1,4 +1,4 @@
-# Simulador de Procesos – Streamlit (con API Go opcional)
+# Simulador de Procesos SO11 GoProfiler
 
 Este proyecto despliega una UI en **Streamlit** para visualizar rondas de ejecución de procesos.
 Puede trabajar de dos modos:
